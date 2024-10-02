@@ -1,6 +1,9 @@
 # Processamento de imagens
 Repositório das atividades e anotações feitas na disciplina de Processamento de Imagens
 
+- Professor: Jefferson Tales Oliva
+- Bibliografia: Processamento digital de imagens - GONZALES
+
 ## Instruções:
 ### Inicializando o projeto: 
 1. Criar ambiente virtual: ```python3 -m venv venv```
