@@ -7,7 +7,7 @@ Repositório das atividades e anotações feitas na disciplina de Processamento 
 2. Abrir ambiente virtual: ```source ./venv/bin/activate```
 3. Instalar requisitos: ```pip install -r requirements.txt```
 
-### 3.2 - Salvando requisitos:
+### Salvando requisitos:
 1. Salvar requisitos: ```pip freeze > requirements.txt```
 2. Adicionar mudança: ```git add requirements.txt```
 3. Fazer commit: ```git commit -m "update: atualizando requisitos"```
